@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/youtube/static/css/main.6dd072a7.chunk.css",
+    "main.css": "/youtube/static/css/main.6f090f2e.chunk.css",
     "main.js": "/youtube/static/js/main.cc216be5.chunk.js",
     "main.js.map": "/youtube/static/js/main.cc216be5.chunk.js.map",
     "runtime-main.js": "/youtube/static/js/runtime-main.fd6ec26e.js",
@@ -8,9 +8,9 @@
     "static/js/2.a2a0aa18.chunk.js": "/youtube/static/js/2.a2a0aa18.chunk.js",
     "static/js/2.a2a0aa18.chunk.js.map": "/youtube/static/js/2.a2a0aa18.chunk.js.map",
     "index.html": "/youtube/index.html",
-    "precache-manifest.01e04c70d3aa05a5aaa5717c2e8eef66.js": "/youtube/precache-manifest.01e04c70d3aa05a5aaa5717c2e8eef66.js",
+    "precache-manifest.4cd3c492e8f04b9f7e6993b9c1d68657.js": "/youtube/precache-manifest.4cd3c492e8f04b9f7e6993b9c1d68657.js",
     "service-worker.js": "/youtube/service-worker.js",
-    "static/css/main.6dd072a7.chunk.css.map": "/youtube/static/css/main.6dd072a7.chunk.css.map",
+    "static/css/main.6f090f2e.chunk.css.map": "/youtube/static/css/main.6f090f2e.chunk.css.map",
     "static/js/2.a2a0aa18.chunk.js.LICENSE.txt": "/youtube/static/js/2.a2a0aa18.chunk.js.LICENSE.txt",
     "static/media/george.png": "/youtube/static/media/george.5c2fe644.png",
     "static/media/meatloaf.png": "/youtube/static/media/meatloaf.d83eae18.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.fd6ec26e.js",
     "static/js/2.a2a0aa18.chunk.js",
-    "static/css/main.6dd072a7.chunk.css",
+    "static/css/main.6f090f2e.chunk.css",
     "static/js/main.cc216be5.chunk.js"
   ]
 }
